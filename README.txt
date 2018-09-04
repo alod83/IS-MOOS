@@ -1,5 +1,3 @@
-Anonymous users will be unable to see any history before Revision 2056.
+Welcome to the IS-MOOS project, you can find more information at the following link:
 
-Apologies for any inconvenience this causes.
-
-ARH 21 April 2008
+http://wafi.iit.cnr.it/angelica/software/is-moos.html
