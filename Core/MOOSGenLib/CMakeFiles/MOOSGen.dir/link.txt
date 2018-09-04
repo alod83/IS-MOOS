@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../MOOSBin/libMOOSGen.a  CMakeFiles/MOOSGen.dir/MOOSLock.cpp.o CMakeFiles/MOOSGen.dir/MOOSFileReader.cpp.o CMakeFiles/MOOSGen.dir/MOOSGenLibGlobalHelper.cpp.o CMakeFiles/MOOSGen.dir/ProcessConfigReader.cpp.o CMakeFiles/MOOSGen.dir/MOOSLinuxSerialPort.cpp.o CMakeFiles/MOOSGen.dir/MOOSSerialPort.cpp.o
+/usr/bin/ranlib ../../MOOSBin/libMOOSGen.a

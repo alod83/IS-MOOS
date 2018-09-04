@@ -1,0 +1,8 @@
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Core/MOOSLIB/CMakeFiles/MOOS.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Core/MOOSDB/CMakeFiles/MOOSDB.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Core/MOOSGenLib/CMakeFiles/MOOSGen.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Essentials/MOOSUtilityLib/CMakeFiles/MOOSUtility.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Essentials/pAntler/CMakeFiles/pAntler.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Essentials/pLogger/CMakeFiles/pLogger.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Essentials/pMOOSBridge/CMakeFiles/pMOOSBridge.dir
+/home/isme/Desktop/UAN/MOOS/SecMOOS_v1.8/Essentials/pScheduler/CMakeFiles/pScheduler.dir
